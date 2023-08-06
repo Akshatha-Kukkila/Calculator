@@ -1,0 +1,65 @@
+* {
+    font-size: 20px;
+}
+
+.apps {
+    margin: auto;
+    text-align: center;
+    background-color: black;
+    width: 218px;
+    border: black 2px solid;
+    border-radius: 5px;
+    margin-top: 10px;
+    align-items: center;
+    margin-top: 100px;
+    justify-content: center;
+}
+
+#display {
+    width: 216px;
+    height: 50px;
+    background-color: black;
+    margin-bottom: 1.5px;
+    border: none;
+    color: white;
+    text-align: right;
+    border-radius: 5px;
+
+}
+
+.btn {
+    width: 50px;
+    height: 50px;
+    color: white;
+    background-color: skyblue;
+    margin-right: 0.7px;
+    margin-bottom: 1.5px;
+    border-radius: 5px;
+    border: none;
+}
+
+.btn:hover {
+    background-color: rgb(93, 93, 207);
+}
+
+.btn1 {
+    width: 50px;
+    height: 50px;
+    color: white;
+    background-color: rgb(22, 62, 100);
+    margin-right: 0.7px;
+    margin-bottom: 1.5px;
+    border-radius: 5px;
+    border: none;
+
+}
+
+.btn1:hover {
+    background-color: rgb(2, 2, 66);
+}
+
+
+#clear,
+#delete {
+    width: 105px;
+}
